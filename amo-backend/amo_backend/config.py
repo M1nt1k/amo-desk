@@ -1,0 +1,1 @@
+mongo_uri = 'mongodb://admin:16551655@185.46.197.42:17055/?authSource=admin&compressors=zlib&zlibCompressionLevel=9'
